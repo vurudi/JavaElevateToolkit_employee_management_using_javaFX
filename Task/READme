@@ -1,0 +1,34 @@
+Title: Task Application
+Purpose: This application manages customer records and appointments.
+
+Author: [Your Name]
+Contact: [Your Email]
+Student Application Version: 1.0
+Date: [Current Date]
+
+IDE: IntelliJ Community [Version Number: 2023.1.3]
+Full JDK: Java SE [Version Number  : 11.0.19]
+JavaFX Version: JavaFX-SDK-[Version Number : 11.1.2] (compatible with JDK [Version Number])
+
+Directions to Run the Program:
+1. Set up a MySQL database and import the provided SQL scripts to create the necessary tables and data.
+2. Update the DatabaseConnector class with your database URL, username, and password.
+3. Build the project using Maven to resolve dependencies.
+4. Run the Main class (com.taskproject.task.Main) as the entry point of the application.
+
+Additional Report Description:
+The application generates a report of all appointments scheduled for the current month.
+
+MySQL Connector Driver Version: mysql-connector-java-[Version Number  : 8.0.26]
+
+Note: Make sure you have the required Java Development Kit (JDK) and JavaFX libraries installed on your system.
+    if not install
+
+you might also find it useful going through the pom.xml file
+
+
+
+################
+"The 'javadoc' folder in the root directory contains the JavaDoc files,
+which provide documentation for the project's classes and methods."
+
